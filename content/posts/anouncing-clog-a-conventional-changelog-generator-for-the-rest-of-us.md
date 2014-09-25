@@ -73,7 +73,7 @@ clog is a work in progress and there are some things missing (like exposing a C 
 
 ## How to get clog?
 
-If you happen to use Rust for your project you can simply get clog via Rusts package manager Cargo. Otherwise you can also just grab the binary and put it somewhere on your machine. Given the small file size you may also directly put clog into your project folder so that everyone on the team has it and changelog generation can be made part of the build process.
+If you happen to use Rust for your project you can simply get clog via Rust's package manager Cargo. Otherwise you can also just grab the binary and put it somewhere on your machine. Given the small file size you may also directly put clog into your project folder so that everyone on the team has it and changelog generation can be made part of the build process.
 
 [clog for Mac (binary)](/clog/0.2.0/clog) [(source)](https://github.com/thoughtram/clog)
 
